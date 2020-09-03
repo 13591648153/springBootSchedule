@@ -37,6 +37,14 @@
 			<groupId>com.yd.test</groupId>
 			<artifactId>springBootDB</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>org.flywaydb</groupId>
+			<artifactId>flyway-core</artifactId>
+		</dependency>
+		<dependency>
+    		<groupId>com.alibaba</groupId>
+    		<artifactId>fastjson</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
